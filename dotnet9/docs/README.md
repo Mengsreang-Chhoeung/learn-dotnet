@@ -20,6 +20,7 @@
 8. [Download .NET](./download-dotnet.md)
 9. [.NET Tools & Editors](./dotnet-tools-editors.md)
 10. [C# Syntax](./cs-syntax.md)
+11. [C# Output](./cs-output.md)
 
 ### 📜 References
 
