@@ -22,6 +22,7 @@
 10. [C# Syntax](./cs-syntax.md)
 11. [C# Output](./cs-output.md)
 12. [C# Comments](./cs-comments.md)
+13. [C# Variables](./cs-variables.md)
 
 ### 📜 References
 
