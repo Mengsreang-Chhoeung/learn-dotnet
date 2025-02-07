@@ -17,6 +17,7 @@
 5. [.NET's Support](./dotnet-support.md)
 6. [.NET's Ecosystem](./dotnet-ecosystem.md)
 7. [.NET's Language Strategy](./dotnet-languages.md)
+8. [Download .NET](./download-dotnet.md)
 
 ### 📜 References
 
