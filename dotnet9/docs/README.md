@@ -33,6 +33,7 @@
 21. [C# Arithmetic Operators](./cs-arithmetic-operators.md)
 22. [C# Assignment Operators](./cs-assignment-operators.md)
 23. [C# Comparison Operators](./cs-comparison-operators.md)
+24. [C# Logical Operators](./cs-logical-operators.md)
 
 ### 📜 References
 
