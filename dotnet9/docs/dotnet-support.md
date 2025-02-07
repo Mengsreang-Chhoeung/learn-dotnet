@@ -4,6 +4,6 @@
 
 - New versions of **.NET** are released annually in November, per our [releases and support policies](https://learn.microsoft.com/en-us/dotnet/core/releases-and-support). It is [updated monthly](https://github.com/dotnet/announcements/labels/Monthly-Update) on Patch Tuesday (second Tuesday), typically at 10AM Pacific time.
 
-### 📜 References
+# 📜 References
 
 - [Introduction to .NET](https://learn.microsoft.com/en-us/dotnet/core/introduction#support)

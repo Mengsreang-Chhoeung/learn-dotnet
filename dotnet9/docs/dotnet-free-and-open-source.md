@@ -4,6 +4,6 @@
 
 - **.NET** source and binaries are licensed with the [MIT license](https://github.com/dotnet/runtime/blob/main/LICENSE.TXT). Additional [licenses apply on Windows](https://github.com/dotnet/core/blob/main/license-information-windows.md).
 
-### 📜 References
+# 📜 References
 
 - [Introduction to .NET](https://learn.microsoft.com/en-us/dotnet/core/introduction#free-and-open-source)

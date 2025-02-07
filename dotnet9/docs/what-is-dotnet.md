@@ -18,6 +18,6 @@
 
 - **NuGet** is the package manager for **.NET** and contains over 300,000 packages.
 
-### 📜 References
+# 📜 References
 
 - [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)

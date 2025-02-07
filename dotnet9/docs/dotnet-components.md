@@ -8,6 +8,6 @@
 - **SDK and other tools --** enable building and monitoring apps with modern workflows.
 - **App stacks --** like ASP.NET Core and Windows Forms, that enable writing apps.
 
-### 📜 References
+# 📜 References
 
 - [Introduction to .NET](https://learn.microsoft.com/en-us/dotnet/core/introduction#components)
