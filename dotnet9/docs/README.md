@@ -30,6 +30,7 @@
 18. [C# Data Types](./cs-data-types.md)
 19. [C# Type Casting](./cs-type-casting.md)
 20. [C# User Input](./cs-user-input.md)
+21. [C# Arithmetic Operators](./cs-arithmetic-operators.md)
 
 ### 📜 References
 
