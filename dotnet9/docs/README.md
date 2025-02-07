@@ -27,6 +27,7 @@
 15. [C# Display Variables](./cs-display-variables.md)
 16. [C# Multiple Variables](./cs-multiple-variables.md)
 17. [C# Identifiers](./cs-identifiers.md)
+18. [C# Data Types](./cs-data-types.md)
 
 ### 📜 References
 
