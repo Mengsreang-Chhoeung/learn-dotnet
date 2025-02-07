@@ -41,7 +41,7 @@ to the screen, and it is amazing */
 Console.WriteLine("Hello World!");
 ```
 
-> **Single or multi-line comments?** > <br> It is up to you which you want to use. Normally, we use `//` for short comments, and `/* */` for longer.
+> **Single or multi-line comments?** <br> It is up to you which you want to use. Normally, we use `//` for short comments, and `/* */` for longer.
 
 # 📜 References
 
