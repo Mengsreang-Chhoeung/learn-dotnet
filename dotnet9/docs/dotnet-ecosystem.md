@@ -1,4 +1,4 @@
-# .NET's Ecosystem
+# .NET Ecosystem
 
 There are multiple variants of **.NET**, each supporting a different type of app. The reason for multiple variants is part historical, part technical.
 

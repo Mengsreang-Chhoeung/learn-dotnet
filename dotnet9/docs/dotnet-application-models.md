@@ -1,4 +1,4 @@
-# .NET's Application Models
+# .NET Application Models
 
 You can build many types of apps with **.NET**. To help you build apps faster, app models are built on top of the base libraries.
 

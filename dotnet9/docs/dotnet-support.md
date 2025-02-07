@@ -1,4 +1,4 @@
-# .NET's Support
+# .NET Support
 
 - **.NET** is [supported by multiple organizations](https://github.com/dotnet/core/blob/main/support.md) that work to ensure that **.NET** can run on [multiple operating systems](https://github.com/dotnet/core/blob/main/os-lifecycle-policy.md) and is kept up to date. It can be used on Arm64, x64, and x86 architectures.
 

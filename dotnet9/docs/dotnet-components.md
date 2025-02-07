@@ -1,4 +1,4 @@
-# .NET's Components
+# .NET Components
 
 **.NET** includes the following components:
 

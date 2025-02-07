@@ -1,4 +1,4 @@
-# .NET's Free and Open Source
+# .NET Free and Open Source
 
 - **.NET** is free, open source, and is a [.NET Foundation](https://dotnetfoundation.org) project. .NET is maintained by Microsoft and the community on GitHub in [several repositories](https://github.com/dotnet/core/blob/main/Documentation/core-repos.md).
 
