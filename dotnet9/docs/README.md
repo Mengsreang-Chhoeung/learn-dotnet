@@ -19,6 +19,7 @@
 7. [.NET's Language Strategy](./dotnet-languages.md)
 8. [Download .NET](./download-dotnet.md)
 9. [.NET Tools & Editors](./dotnet-tools-editors.md)
+10. [C# Syntax](./cs-syntax.md)
 
 ### 📜 References
 
