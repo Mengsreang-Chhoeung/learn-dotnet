@@ -55,7 +55,7 @@ Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
 Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
 ```
 
-> **Why Conversion?** <br> Many times, there's no need for type conversion. But sometimes you have to. Take a look at the next chapter, when working with user input, to see an example of this.
+> **Why Conversion?** <br> Many times, there's no need for type conversion. But sometimes you have to. Take a look at the next chapter, when working with [user input](./cs-user-input.md), to see an example of this.
 
 # 📜 References
 
