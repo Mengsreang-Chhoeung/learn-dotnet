@@ -16,6 +16,7 @@
 4. [.NET's Free and Open Source](./dotnet-free-and-open-source.md)
 5. [.NET's Support](./dotnet-support.md)
 6. [.NET's Ecosystem](./dotnet-ecosystem.md)
+7. [.NET's Language Strategy](./dotnet-languages.md)
 
 ### 📜 References
 
