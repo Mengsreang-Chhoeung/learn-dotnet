@@ -32,6 +32,7 @@
 20. [C# User Input](./cs-user-input.md)
 21. [C# Arithmetic Operators](./cs-arithmetic-operators.md)
 22. [C# Assignment Operators](./cs-assignment-operators.md)
+23. [C# Comparison Operators](./cs-comparison-operators.md)
 
 ### 📜 References
 
