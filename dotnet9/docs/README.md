@@ -24,6 +24,7 @@
 12. [C# Comments](./cs-comments.md)
 13. [C# Variables](./cs-variables.md)
 14. [C# Constants](./cs-constants.md)
+15. [C# Display Variables](./cs-display-variables.md)
 
 ### 📜 References
 
