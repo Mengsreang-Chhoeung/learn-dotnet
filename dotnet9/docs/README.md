@@ -43,6 +43,7 @@
 31. [C# Booleans](./cs-booleans.md)
 32. [C# If ... Else](./cs-if-else.md)
 33. [C# Switch](./cs-switch.md)
+34. [C# While Loop](./cs-while-loop.md)
 
 ### 📜 References
 
