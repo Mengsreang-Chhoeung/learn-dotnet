@@ -51,6 +51,7 @@
 39. [C# Loop Through Arrays](./cs-loop-through-an-array.md)
 40. [C# Sort Arrays](./cs-sort-arrays.md)
 41. [C# Multidimensional Arrays](./cs-multidimensional-arrays.md)
+42. [C# Methods](./cs-methods.md)
 
 ### 📜 References
 
