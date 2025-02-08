@@ -45,6 +45,7 @@
 33. [C# Switch](./cs-switch.md)
 34. [C# While Loop](./cs-while-loop.md)
 35. [C# For Loop](./cs-for-loop.md)
+36. [C# Foreach Loop](./cs-foreach-loop.md)
 
 ### 📜 References
 
