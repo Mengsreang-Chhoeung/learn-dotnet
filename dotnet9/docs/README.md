@@ -47,6 +47,7 @@
 35. [C# For Loop](./cs-for-loop.md)
 36. [C# Foreach Loop](./cs-foreach-loop.md)
 37. [C# Break and Continue](./cs-break-continue.md)
+38. [C# Arrays](./cs-arrays.md)
 
 ### 📜 References
 
