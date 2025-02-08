@@ -37,6 +37,7 @@
 25. [C# Math](./cs-math.md)
 26. [C# Strings](./cs-strings.md)
 27. [C# String Concatenation](./cs-string-concatenation.md)
+28. [C# String Interpolation](./cs-string-interpolation.md)
 
 ### 📜 References
 
