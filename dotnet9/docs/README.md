@@ -39,6 +39,7 @@
 27. [C# String Concatenation](./cs-string-concatenation.md)
 28. [C# String Interpolation](./cs-string-interpolation.md)
 29. [C# Access Strings](./cs-access-strings.md)
+30. [C# Special Characters](./cs-special-characters.md)
 
 ### 📜 References
 
