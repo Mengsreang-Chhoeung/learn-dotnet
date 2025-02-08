@@ -4,7 +4,7 @@
 
 Data **abstraction** is the process of hiding certain details and showing only essential information to the user.
 
-Abstraction can be achieved with either **abstract** **classes** or **interfaces** (which you will learn more about in the next chapter).
+Abstraction can be achieved with either **abstract** **classes** or [**interfaces**](./cs-interface.md) (which you will learn more about in the next chapter).
 
 The `abstract` keyword is used for classes and methods:
 
@@ -70,7 +70,7 @@ class Program
 }
 ```
 
-> **Why And When To Use Abstract Classes and Methods?**<br>To achieve security - hide certain details and only show the important details of an object.<br>**Note:** Abstraction can also be achieved with Interfaces, which you will learn more about in the next chapter.
+> **Why And When To Use Abstract Classes and Methods?**<br>To achieve security - hide certain details and only show the important details of an object.<br>**Note:** Abstraction can also be achieved with [Interfaces](./cs-interface.md), which you will learn more about in the next chapter.
 
 # 📜 References
 

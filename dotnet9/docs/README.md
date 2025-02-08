@@ -63,6 +63,7 @@
 51. [C# Inheritance](./cs-inheritance.md)
 52. [C# Polymorphism](./cs-polymorphism.md)
 53. [C# Abstraction](./cs-abstraction.md)
+54. [C# Interface](./cs-interface.md)
 
 ### 📜 References
 
