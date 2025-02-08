@@ -35,6 +35,7 @@
 23. [C# Comparison Operators](./cs-comparison-operators.md)
 24. [C# Logical Operators](./cs-logical-operators.md)
 25. [C# Math](./cs-math.md)
+26. [C# Strings](./cs-strings.md)
 
 ### 📜 References
 
