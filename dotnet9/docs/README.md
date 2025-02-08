@@ -61,6 +61,7 @@
 49. [C# Access Modifiers](./cs-access-modifiers.md)
 50. [C# Properties (Get and Set)](./cs-properties.md)
 51. [C# Inheritance](./cs-inheritance.md)
+52. [C# Polymorphism](./cs-polymorphism.md)
 
 ### 📜 References
 
