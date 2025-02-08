@@ -52,6 +52,7 @@
 40. [C# Sort Arrays](./cs-sort-arrays.md)
 41. [C# Multidimensional Arrays](./cs-multidimensional-arrays.md)
 42. [C# Methods](./cs-methods.md)
+43. [C# Method Parameters](./cs-method-parameters.md)
 
 ### 📜 References
 
