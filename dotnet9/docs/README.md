@@ -66,6 +66,7 @@
 54. [C# Interface](./cs-interface.md)
 55. [C# Enums](./cs-enums.md)
 56. [C# Files](./cs-files.md)
+57. [C# Exceptions - Try..Catch](./cs-exceptions.md)
 
 ### 📜 References
 
